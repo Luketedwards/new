@@ -1,0 +1,210 @@
+.nav {
+    /* Layout Properties */
+    top: 39px;
+    left: 406px;
+    width: 90px;
+    height: 21px;
+    /* UI Properties */
+    color: var(--unnamed-color-241457);
+    text-align: left;
+    font: normal normal bold 18px/66px Raleway;
+    letter-spacing: 0.9px;
+    color: #241457;
+    opacity: 1;
+    display: inline;
+}
+
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: inline;
+}
+
+li {
+    float: left;
+    display: block;
+    margin: 10px;
+}
+
+.navbar-div-2{
+    /* Layout Properties */
+top: 32px;
+left: 1165px;
+width: 444px;
+height: 43px;
+/* UI Properties */
+background: var(--unnamed-color-241457) 0% 0% no-repeat padding-box;
+background: #241457 0% 0% no-repeat padding-box;
+border-radius: 22px 0px 0px 22px;
+opacity: 1;
+}
+
+.nav-link2{
+    color: white;
+}
+
+.nav-link{
+    text-align: left;
+font: normal normal bold 18px/66px Raleway;
+letter-spacing: 0.9px;
+color: #241457;
+opacity: 1;
+}
+.div-nav {
+    /* Layout Properties */
+    top: 32px;
+    left: 1165px;
+    width: 444px;
+    height: 43px;
+    /* UI Properties */
+    background: var(--unnamed-color-241457) 0% 0% no-repeat padding-box;
+    background: #241457 0% 0% no-repeat padding-box;
+    border-radius: 22px 0px 0px 22px;
+    opacity: 1;
+    float: right;
+}
+
+.div-nav ul li {
+    /* Layout Properties */
+top: 39px;
+left: 406px;
+width: 90px;
+height: 21px;
+/* UI Properties */
+color: var(--unnamed-color-241457);
+text-align: left;
+font: normal normal bold 18px/66px Raleway;
+letter-spacing: 0.9px;
+color: #241457;
+opacity: 1;
+}
+
+.navbar-div {
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 5576px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.hero{
+ /* Layout Properties */
+
+left: 0px;
+width: 1600px;
+height: 755px;
+/* UI Properties */
+background: transparent linear-gradient(277deg, var(--unnamed-color-241457) 0%, var(--unnamed-color-da137b) 100%) 0% 0% no-repeat padding-box;
+background: transparent linear-gradient(277deg, #241457 0%, #DA137B 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.hero-div{
+    padding-top: 11rem;
+    margin-left: 9rem;
+}
+
+.hero h1{
+    
+    top: 415px;
+left: 204px;
+width: 654px;
+height: 77px;
+/* UI Properties */
+color: var(--unnamed-color-ffffff);
+text-align: left;
+font: normal normal normal 66px/66px Raleway;
+letter-spacing: 3.3px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.hero p{
+    /* Layout Properties */
+top: 532px;
+left: 204px;
+width: 661px;
+height: 73px;
+/* UI Properties */
+color: var(--unnamed-color-ffffff);
+text-align: left;
+font: normal normal normal 24px/40px Open Sans;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.btn-1{
+    /* Layout Properties */
+
+width: 132px;
+height: 43px;
+/* UI Properties */
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 22px 0px 0px 22px;
+border: none;
+opacity: 1;
+}
+
+.btn-2{
+    /* Layout Properties */
+
+width: 197px;
+height: 43px;
+/* UI Properties */
+background: var(--unnamed-color-da137b) 0% 0% no-repeat padding-box;
+background: #DA137B 0% 0% no-repeat padding-box;
+border-radius: 0px 22px 22px 0px;
+opacity: 1;
+border: none;
+color: white;
+}
+
+.hero-btn1{
+    width: 16px;
+height: 16px;
+/* UI Properties */
+background: var(--unnamed-color-da137b) 0% 0% no-repeat padding-box;
+background: #DA137B 0% 0% no-repeat padding-box;
+opacity: 1;
+border-radius: 50%;
+}
+
+.hero-btn2{
+    width: 16px;
+    height: 16px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+border-radius: 50%;
+
+}
+
+.hero-btn-div{
+    display: inline-flex;
+}
+
+.hero-btn-div div{
+    margin: 5px;
+}
+
+.buttons-div{
+    display: inline-block;
+}
+
+.cross-image img{
+    height: 51rem;
+    width: 45rem;
+    top: -28px;
+    position: absolute;
+    margin-left: 39rem;
+}
