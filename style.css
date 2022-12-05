@@ -14,6 +14,9 @@
     display: inline;
 }
 
+body{
+    width: 100%;
+}
 
 .nav ul {
     list-style-type: none;
@@ -104,11 +107,13 @@ height: 755px;
 background: transparent linear-gradient(277deg, var(--unnamed-color-241457) 0%, var(--unnamed-color-da137b) 100%) 0% 0% no-repeat padding-box;
 background: transparent linear-gradient(277deg, #241457 0%, #DA137B 100%) 0% 0% no-repeat padding-box;
 opacity: 1;
+margin-top: 4rem;
 }
 
 .hero-div{
-    padding-top: 11rem;
+    padding-top: 14rem;
     margin-left: 9rem;
+    
 }
 
 .hero h1{
@@ -194,7 +199,7 @@ border-radius: 50%;
 }
 
 .hero-btn-div div{
-    margin: 5px;
+    margin: 7px;
 }
 
 .buttons-div{
@@ -202,9 +207,61 @@ border-radius: 50%;
 }
 
 .cross-image img{
-    height: 51rem;
-    width: 45rem;
-    top: -28px;
+    height: 54rem;
+    width: 52rem;
+    top: -4rem;
     position: absolute;
-    margin-left: 39rem;
+    margin-left: 44rem;
+}
+
+.craft{
+    width: 446px;
+height: 108px;
+/* UI Properties */
+color: var(--unnamed-color-241457);
+text-align: left;
+font: normal normal normal 46px/54px Raleway;
+letter-spacing: 2.3px;
+color: #241457;
+opacity: 1;
+}
+
+.craft-p{
+    width: 586px;
+height: 203px;
+/* UI Properties */
+color: var(--unnamed-color-000000);
+text-align: left;
+font: normal normal normal 20px/44px Open Sans;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.craft-img{
+    width: 749px;
+height: 461px;
+/* UI Properties */
+background: transparent url('assets/IMG_7806.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.craft-btn{
+    width: 159px;
+height: 43px;
+/* UI Properties */
+background: var(--unnamed-color-241457) 0% 0% no-repeat padding-box;
+background: #241457 0% 0% no-repeat padding-box;
+border-radius: 22px;
+opacity: 1;
+color: white;
+}
+
+.services{
+    width: 1600px;
+height: 913px;
+/* UI Properties */
+background: var(--unnamed-color-f4f4f4) 0% 0% no-repeat padding-box;
+background: #F4F4F4 0% 0% no-repeat padding-box;
+opacity: 1;
 }
